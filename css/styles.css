@@ -49,7 +49,16 @@ h1, h2, h3 , h4, h5, h6 {
     border: none;
     padding: 20px;
   }  
-  
+  .login-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #FF8A84;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
 .customNav {
     position: absolute;
     width: 100%;
